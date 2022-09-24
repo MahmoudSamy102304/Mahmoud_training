@@ -26,7 +26,7 @@ class Account extends StatelessWidget {
           height: 8,
         ),
         const Text(
-          "Abdallah Hany",
+          "Mahmoud Sami",
           style: TextStyle(
               color: Colors.black,
               fontSize: 20,
